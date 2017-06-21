@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#master
+#new2
 import os;
 import commands;
 
